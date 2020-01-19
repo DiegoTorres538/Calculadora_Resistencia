@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora de Resistencia</string>
+    <string name="banda1">Banda 1</string>
+    <string name="banda2">Banda 2</string>
+    <string name="multiplicador">Multiplicador</string>
+    <string name="tolerancia">Tolerancia</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">resultado</string>
+</resources>
